@@ -53,3 +53,5 @@ Summit offers a few finished and unfinished features such as:
 ### Finally 
 
 Under no means should you just take this and try to play it off as your own, this is meant for learning. So actually learn from it. 
+
+Thanks to [Impulser](https://github.com/Impulser) for making this possible. 
