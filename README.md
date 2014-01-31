@@ -46,7 +46,7 @@ Summit offers a few finished and unfinished features such as:
 * **Twitter:** [@CodeusaSoftware](https://twitter.com/codeusasoftware)
 * **Blog:** [andrew.codeusa.net](http://andrew.codeusa.net)
 * **Youtube:** [Youtube Channel](http://www.youtube.com/codeusasoftware)
-* 
+
 ### Finally 
 
 Under no means should you just take this and try to play it off as your own, this is meant for learning. So actually learn from it. 
