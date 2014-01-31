@@ -10,6 +10,9 @@ The project is open source under the [GNU GENERAL PUBLIC LICENSE](https://github
 
 CodeUSA has received some lackluster updates, so to help improve relationships with the community I felt it be a great move to allow users to make their own alterations to Summit to help contribute towards it and making it better, I've also started creating a brand new version of Summit and instead of just tossing this one to the side I figured I'd give great minds a chance to do something of their own with it.
 
+###Note 
+Only download official versions from this Repo or http://codeusa.net/download/
+
 
 ###Features 
 
